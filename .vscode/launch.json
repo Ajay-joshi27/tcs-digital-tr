@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MAXMIN",
+            "request": "launch",
+            "mainClass": "MAXMIN",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "pyramid",
+            "request": "launch",
+            "mainClass": "Pattern.pyramid",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "rightangledtriangle",
+            "request": "launch",
+            "mainClass": "Pattern.rightangledtriangle",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "Pattern.square",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Armstring",
+            "request": "launch",
+            "mainClass": "Armstring",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "anagram",
             "request": "launch",
             "mainClass": "Stringss.anagram",
