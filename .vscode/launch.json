@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "secondmaxx",
+            "request": "launch",
+            "mainClass": "secondmaxx",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "secondmax",
+            "request": "launch",
+            "mainClass": "secondmax",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "rev",
+            "request": "launch",
+            "mainClass": "rev",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "MAXMIN",
             "request": "launch",
             "mainClass": "MAXMIN",
