@@ -1,0 +1,130 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "Stringss.anagram",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "SortStrings",
+            "request": "launch",
+            "mainClass": "Stringss.SortStrings",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "removedup",
+            "request": "launch",
+            "mainClass": "Stringss.removedup",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "removespecialchar",
+            "request": "launch",
+            "mainClass": "Stringss.removespecialchar",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "Stringss.reverse",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "pallindrome",
+            "request": "launch",
+            "mainClass": "Stringss.pallindrome",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "TwoPointer",
+            "request": "launch",
+            "mainClass": "TwoPointer",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "stringisempty",
+            "request": "launch",
+            "mainClass": "stringisempty",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "towstringsequal",
+            "request": "launch",
+            "mainClass": "towstringsequal",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "userauthentication",
+            "request": "launch",
+            "mainClass": "userauthentication",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "comparetowchar",
+            "request": "launch",
+            "mainClass": "comparetowchar",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "alphabetornot",
+            "request": "launch",
+            "mainClass": "alphabetornot",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "characterisvowelorconsonent",
+            "request": "launch",
+            "mainClass": "characterisvowelorconsonent",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "onefive",
+            "request": "launch",
+            "mainClass": "onefive",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
