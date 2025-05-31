@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertAtEndd",
+            "request": "launch",
+            "mainClass": "LinkedLists.InsertAtEndd",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "reversewords",
+            "request": "launch",
+            "mainClass": "Stringss.reversewords",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "LinkedLists.basic",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "frequencyofnum",
             "request": "launch",
             "mainClass": "frequencyofnum",
