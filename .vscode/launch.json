@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frequencyofnum",
+            "request": "launch",
+            "mainClass": "frequencyofnum",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "findmissingnum",
+            "request": "launch",
+            "mainClass": "findmissingnum",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "moveZeros",
+            "request": "launch",
+            "mainClass": "moveZeros",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "secondmaxx",
             "request": "launch",
             "mainClass": "secondmaxx",
