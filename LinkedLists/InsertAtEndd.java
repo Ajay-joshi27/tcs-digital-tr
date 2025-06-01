@@ -13,7 +13,6 @@ class Node {
 class LinkedList {
     Node head;
 
-    // Insert a new node at the end
     public void insertAtEnd(int newData) {
         Node newNode = new Node(newData);
 
@@ -30,7 +29,6 @@ class LinkedList {
         temp.next = newNode;
     }
 
-    // Print the list
     public void printList() {
         Node temp = head;
         while (temp != null) {
@@ -38,6 +36,21 @@ class LinkedList {
             temp = temp.next;
         }
         System.out.println("null");
+    }
+
+    public void reverse() {
+        Node current = head;
+        Node prev = null;
+        Node nextptr;
+
+        while (current != null) {
+            nextptr = current.next;
+            current.next = prev;
+            prev = current;
+            current = nextptr;
+        }
+
+        head = prev;
     }
 }
 
@@ -50,5 +63,7 @@ public class InsertAtEndd {
         list.insertAtEnd(30);
 
         list.printList(); // Output: 10 -> 20 -> 30 -> null
+        list.reverse();
+        list.printList(); // Output: 30 -> 20 -> 10 -> null
     }
 }

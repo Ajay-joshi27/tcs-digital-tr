@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InserAtAnyIndex",
+            "request": "launch",
+            "mainClass": "Stacks.InserAtAnyIndex",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "copyStackIntoAnotherStack",
+            "request": "launch",
+            "mainClass": "Stacks.copyStackIntoAnotherStack",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "revStack",
+            "request": "launch",
+            "mainClass": "Stacks.revStack",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "InsertAtEndd",
             "request": "launch",
             "mainClass": "LinkedLists.InsertAtEndd",
