@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QueueusingArray",
+            "request": "launch",
+            "mainClass": "Queues.QueueusingArray",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "evenindexqueue",
+            "request": "launch",
+            "mainClass": "Queues.evenindexqueue",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Queue1",
+            "request": "launch",
+            "mainClass": "Queues.Queue1",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "InserAtAnyIndex",
             "request": "launch",
             "mainClass": "Stacks.InserAtAnyIndex",
