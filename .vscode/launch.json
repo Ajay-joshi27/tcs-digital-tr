@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeTwoSorteArrays",
+            "request": "launch",
+            "mainClass": "MergeTwoSorteArrays",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Sort0s1s2s",
+            "request": "launch",
+            "mainClass": "Sort0s1s2s",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Sort0s1s",
+            "request": "launch",
+            "mainClass": "Sort0s1s",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Sortedorno",
+            "request": "launch",
+            "mainClass": "Sortedorno",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "sortingdemo",
+            "request": "launch",
+            "mainClass": "sortingdemo",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "QueueusingArray",
             "request": "launch",
             "mainClass": "Queues.QueueusingArray",
