@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertAtEndd",
+            "request": "launch",
+            "mainClass": "InsertAtEndd",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "frequencypractise",
             "request": "launch",
             "mainClass": "Stringss.frequencypractise",

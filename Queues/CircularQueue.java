@@ -24,6 +24,7 @@ public class CircularQueue {
     }
 
     public int remove(){
+        return 0;
         
     }
 
