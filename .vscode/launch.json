@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frequencypractise",
+            "request": "launch",
+            "mainClass": "Stringss.frequencypractise",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "pallindromespecialcase",
+            "request": "launch",
+            "mainClass": "Stringss.pallindromespecialcase",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "MergeTwoSorteArrays",
             "request": "launch",
             "mainClass": "MergeTwoSorteArrays",
