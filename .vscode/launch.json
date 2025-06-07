@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "recursion.Power",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "recursion.sum",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "OneToN",
+            "request": "launch",
+            "mainClass": "recursion.OneToN",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "recursion.Factorial",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "Binarysearch",
+            "request": "launch",
+            "mainClass": "Searchingalgorithms.Binarysearch",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "SortingAlgorithms.InsertionSort",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "SortingAlgorithms.BubbleSort",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "InsertAtEndd",
             "request": "launch",
             "mainClass": "InsertAtEndd",
