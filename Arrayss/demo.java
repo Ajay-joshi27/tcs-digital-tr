@@ -15,7 +15,10 @@ public class demo {
             }    
            }
            for (int i : dup) {
-            System.out.print(i+" ");
+            if (i!=0) {
+                System.out.print(i+" ");
+            }
+            
            }
        }
     }

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practise",
+            "request": "launch",
+            "mainClass": "Practise",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "Power",
             "request": "launch",
             "mainClass": "recursion.Power",
