@@ -23,7 +23,7 @@ public static void main(String[] args) {
         }
         else if(arr[mid]<target){
             i=mid+1;
-        }
+        } 
         else{
             System.out.println("element not found");
         }
