@@ -1,0 +1,23 @@
+*{
+    background:rgb(187, 240, 233);
+}
+div{
+    margin: auto;
+    background-color: #fff;
+    width: 70vh;
+}
+.innerdiv{
+    background-color: #c2fcfb;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.maincontent{
+    background-color: #e7e7e7;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}

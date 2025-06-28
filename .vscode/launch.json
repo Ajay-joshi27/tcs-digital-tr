@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IAE",
+            "request": "launch",
+            "mainClass": "IAE",
+            "projectName": "tcs digital tr_adaa7f5"
+        },
+        {
+            "type": "java",
             "name": "revandaddddistinctelement",
             "request": "launch",
             "mainClass": "HashSetAndHashMap.revandaddddistinctelement",
